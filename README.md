@@ -1,2 +1,1 @@
-# Stochastic_System
-Course Project
+# SpeechRecognition
